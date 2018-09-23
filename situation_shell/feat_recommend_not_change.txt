@@ -1,0 +1,7 @@
+Because your working amount is less than {}, you should't modify it.
+Because your working amount is less than {}, I think you shouldn't change it.
+Because your working amount is less than {}, I recommend you to work on other code.
+Because your working amount is less than {}, I recommend you to not work on here.
+Because your working amount is less than {}, I think you shouldn't work on here.
+Because your working amount is less than {}, I hope that you don't work in here.
+Because your working amount is less than {}, I disagree about working in here.

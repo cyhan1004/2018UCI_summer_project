@@ -1,0 +1,10 @@
+Okay, sent message to {}.
+Send message to {} is done.
+Sending message to {}.
+Send message to {} is perfectly done!
+{} received your message.
+Sending message to {} is completed!
+Send direct message {} completed.
+Direct message to {} is sent.
+Sending Direct message to {} is completed.
+Sending message personally to {} is completed.
